@@ -1,1 +1,8 @@
+# Files & Folders
 .idea
+LangChain/.env
+LlamaIndex/.env
+
+
+# Environments
+venv/
