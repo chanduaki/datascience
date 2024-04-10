@@ -4,3 +4,5 @@
 - Frontend Interface : 
   - https://docs.streamlit.io/
   - https://panel.holoviz.org/index.html
+- How to install panel template examples 
+  - https://github.com/holoviz-topics/panel-chat-examples/tree/main 

@@ -1,9 +1,12 @@
+# Env Variables
+python-dotenv
+
+# LangChain
 langchain_openai
 langchain_core
-python-dotenv
-streamlit
 langchain_community
 
+# APIs
 langserve
 fastapi
 uvicorn
@@ -11,4 +14,9 @@ sse_starlette
 
 ipykernel
 
+# DB
 chromadb
+
+# Frontend Interface
+panel
+streamlit
