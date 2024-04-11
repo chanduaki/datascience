@@ -5,7 +5,7 @@ python-dotenv
 langchain_openai
 langchain_core
 langchain_community
-
+langchain-community 
 # APIs
 langserve
 fastapi
@@ -20,3 +20,6 @@ chromadb
 # Frontend Interface
 panel
 streamlit
+
+#
+faiss-cpu
