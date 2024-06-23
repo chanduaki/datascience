@@ -1,0 +1,4 @@
+ML stands for "Machine Learning." 
+ML is a subfield of artificial intelligence that focuses on enabling computers to learn from data, improve their performance over time, and make accurate predictions or decisions without being explicitly programmed. 
+ML algorithms analyze large datasets, recognize patterns, and adapt to new information to make informed decisions. 
+Applications of ML include image and speech recognition, natural language processing, recommender systems, and personalized advertising.
