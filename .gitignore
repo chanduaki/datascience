@@ -2,7 +2,8 @@
 .idea
 LangChain/.env
 LlamaIndex/.env
-
+ML/.DS_Store
+.DS_Store
 
 # Environments
 venv/
