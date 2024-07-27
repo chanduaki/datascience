@@ -6,3 +6,5 @@ LlamaIndex/.env
 
 # Environments
 venv/
+
+NLP/SentimentAnalysis/roberta/.env
