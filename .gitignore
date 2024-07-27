@@ -7,3 +7,5 @@ ML/.DS_Store
 
 # Environments
 venv/
+
+NLP/SentimentAnalysis/roberta/.env
