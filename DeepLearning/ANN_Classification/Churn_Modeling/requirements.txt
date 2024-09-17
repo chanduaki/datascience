@@ -1,0 +1,9 @@
+tensorflow==2.15.0
+tensorboard
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
+sweetviz
+imbalanced-learn
