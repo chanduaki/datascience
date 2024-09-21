@@ -1,0 +1,9 @@
+tensorflow
+tensorboard
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
+sweetviz
+opencv-python
